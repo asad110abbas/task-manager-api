@@ -7,6 +7,8 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![CI](https://github.com/asad110abbas/task-manager-api/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 A clean, typed **REST API** for personal task management: JWT authentication, schema validation, filtering,
 search, sorting, pagination, per-user data isolation and stats, all covered by integration tests.
 
