@@ -1,5 +1,6 @@
-# ✅ Task Manager API
+# ✅ BRIHA · Task Manager API
 
+![BRIHA](https://img.shields.io/badge/BRIHA-Genesis_of_AGI-8B5CF6?style=for-the-badge&labelColor=0B1024) ![Module](https://img.shields.io/badge/Briha-Engineering-00F0FF?style=for-the-badge&labelColor=0B1024)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js_22-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
@@ -7,7 +8,7 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![CI](https://github.com/asad110abbas/task-manager-api/actions/workflows/ci.yml/badge.svg)
 
-> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+> ⚡ **BRIHA: The Genesis of AGI.** This is a **Briha Engineering** module, part of the [BRIHA AI World](https://github.com/asad110abbas), built by **Syed Asad Abbas**.
 
 A clean, typed **REST API** for personal task management: JWT authentication, schema validation, filtering,
 search, sorting, pagination, per-user data isolation and stats, all covered by integration tests.
